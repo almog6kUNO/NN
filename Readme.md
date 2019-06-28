@@ -10,8 +10,8 @@ Requirements:
         2.4 pip install tqdm    # Display information on the screen
 
     3. Run:
-        1. train:
+        1. Train:
             python -t filename
-        2. Run after train:
+        2. Validate:
             python -v filename
     
